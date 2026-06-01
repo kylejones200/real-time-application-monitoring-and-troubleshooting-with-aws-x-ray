@@ -11,14 +11,7 @@ With AWS X-Ray, you can identify performance bottlenecks, troubleshoot issues, a
 
 One of the key benefits of AWS X-Ray is its ability to trace requests as they move through your application. You can use X-Ray to see which components of your application are involved in each request, how long each component takes to process the request, and whether there are any errors or exceptions in the request. This information can help you quickly identify performance issues and take corrective action.
 
-## About
 
-Place the code for this article in this repository.
-The original article export is saved as `article.md`.
-
-## Files
-
-Add your `.ipynb`, `.py`, `.yaml`, `.js`, `.ts`, or other project files here.
 
 ## Disclaimer
 
